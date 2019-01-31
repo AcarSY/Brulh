@@ -1,0 +1,91 @@
+		// Diziler
+		[`La Casa de Papel`, `Dizi`, `Bir soygun dizisi. Karakterlerin isimleri şehir adlarından oluşuyor...`, 2],
+
+		// Discord Botları
+		[`PirdBot`, `Discord Botu`, `Siyahımsı profil resmi var. Yönetim paneli yapılan ilk botlardan...`, 2],
+		[`Gulu`, `Discord Botu`, `Profil resminde bir damla var. Yönetim paneli yapılan ilk botlardan...`, 1],
+		[`Simsek`, `Discord Botu`, `Oldukça sevdiğim biri tarafından yapılmış olup profil resmi kırmızıdır.`, 2],
+		[`Brulh`, `Discord Botu`, `Anlatmaya kitaplar yetmez...`, 2],
+		[`Clowning`, `Discord Botu`, `Logosunda C bulunan harika bir bot. Yönetim panelinde farklı tema kullanan ender botlardan.`, 2],
+		[`Rythm`, `Discord Botu`, `En çok bilinen müzik botu`, 1],
+		[[`SvO`, `Sohbet ve Oyun`], `Discord Botu`, `Türkiye'de ilk çıkan botlardan biri olmakla birlikte hızla popüler olup şu anda kapanan bot.`, 1],
+
+		// Animeler
+		[`Naruto`, `Anime`, `Popüler animelerden birindeki, Masashi Kishimoto tarafından oluşturulmuş sarı saçlı erkek karakterin ismi.`, 2],
+		[`Sakurasou no pet na kanajo`, `Anime`, `Baş karakteri Mashiro Shiina olan animenin ismi.`, 6],
+	
+		// Ülkeler
+		[`Rusya`, `Ülke`, `Yüzölçümü en büyük ülkedir.`, 1],
+		[`Belçika`, `Ülke`, `Almanya'nın 2. Dünya Savaşı'nda Fransa'ya girmek için kullandığı ülke.`, 2],
+		[`Estonya`, `Ülke`, `İlk yapılan siber saldırı, bu saldırı sonucu ülke tüm internetini kapatmak zorunda kaldı.`, 2],
+		[`İtalya`, `Ülke`, `2. Dünya Savaşı'nda mihver taraflarından biri. Güney tarafında bulunuyor. 2. DÜnya Savaşı'nda daha çok Afrika'ya odaklandı.`, 3],
+		[[`Birleşik Krallık`, `İngiltere`], `Ülke`, `Kendileri neredeyse tüm dünyayı sömürge altında tutmuştur.`, 1],
+		[`Amerika Birleşik Devletleri`, `Ülke`, `Başka kıtadan başka kıtaya burnunu sokan bir devlet.`, 1],
+		[`İspanya`, `Ülke`, `En büyük 3. sömürge gücü.`, 3],
+		[`Almanya`, `Ülke`, `Avrupa'nın en güçlü ülkesi.`, 2],
+		[`İsviçre`, `Ülke`, `Her savaşta tarafsız olan ülke.`, 2],
+		[`Suriye`, `Ülke`, `Şuan iç savaş olan taraflarından biri IŞİD olan ülke.`, 1],
+		[`Çin`, `Ülke`, `Dünya'nın en büyük 3 ekonomisinden biri. Aynı zamanda en fazla insanın yaşadığı ülke.`, 1],
+		[`Pakistan`, `Ülke`, `İlk ve tek nükleer gücü olan Müslüman ülke.`, 2],
+		[`Yugoslavya`, `Ülke`, `2. Dünya Savaşı'nda dağılan, bir çok ülkenin birleşiminden oluşan, balkanlarda bulunan bir ülke.`, 3],
+		[`Kuzey Kore`, `Ülke`, `Sık sık Amerika ile gerginlik yaşayan, nükleer gücü olan, Asya'da bulunan, bir bölgede ikiye ayrılmış (örnek olarak Almanya'nın Batı ve Doğu olarak ayrılması), Dünya'ya kapalı olan ülke.`, 2],
+		[`Küba`, `Ülke`, `Amerika'nın Sovyetler'i Türkiye'yi kullanarak tehdit etmesine karşın Sovyetler'in bu hareketi yapmak için kullandığı ülke.`, 3],
+		[[`Japonya`, `Japon İmparatorluğu`], `Ülke`, `Almanya'nın Sovyetler'i doğudan yok etmesini umduğu ülke.`, 2],
+
+		// Yöneticiler
+		[[`1. Selim`, `Yavuz Sultan Selim`, `I. Selim`], `Yönetici`, `Osmanlı'yı en görkemli zamanlarına sokmuş, hazineyi tamamen doldurmuş, döneminde en geniş topraklara sahip padişahtır.`, 2],
+		[[`Atatürk`, `Kemal Atatürk`, `Mustafa Kemal Atatürk`], `Yönetici`, `Sözde Dünya Lideri olan Türklerin yerden göğe sığdıramadıkları lider.`, 1],
+		[[`Hitler`, `Adolf Hitler`], `Yönetici`, `2. Dünya Savaşı'nda Almanya'nın lideri olan, yahudi yakan (en sevdiğim) lider.`, 1],
+		[[`Benito Mussolini`, `Mussolini`], `Yönetici`, `2. Dünya Savaşı'na yakın zamanlar darbe ile başa geçmiş, mihver tarafında bulunan lider.`, 2],
+		[`Truman`, `Yönetici`, `2. Dünya Savaşı'nda Türkiye ve Yunanistan'a yardım yapan lider.`, 3],
+		[[`Fidel Castro`, `Castro`], `Yönetici`, `Sosyalist Küba'nın ilk başkanı.`, 2],
+
+		// İller
+		[`Stalingrad`, `İl`, `2. Dünya Savaşı'nın kaderini değiştiren, Almanya'nın doğu cephesinde başarılı olmasını imkansız kılan muhaberede alınmak istenen yer.`, 2],
+		[[`Gaziantep`, `Antep`], `İl`, `Güneydoğu Anadolu'da bulunan ismini kahramanlıklarından almış bir il. Fıstığı ile ünlüdür.`, 1],
+		[`Hatay`, `İl`, `Zamanında ismi Antakya olan, Türkiye'nin en güneyinde bulunan il.`, 2],
+		[`Musul`, `İl`, `Atatürk'ün oldukça önem verdiği fakat alınamayan, zengin petrol yataklarının bulunduğu, şuan Irak'ın elinde olan il.`, 2],
+		[`Batum`, `İl`, `Yapılan dostluk anlaşmasında Sovyetler'e teslim ettiğimiz il.`, 3],
+		[`Bakü`, `İl`, `Azerbaycan'da bulunan, zengin petrol yataklarına sahip il.`, 1],
+		[`Bağdat`, `İl`, `Einstein'ın atomun içinde öyle bir enerji var ki bu ili yok edebilir dediği il.`, 2],
+		[`Moskova`, `İl`, `2. DÜnya Savaşı'nda Almanya'nın almaya çok yaklaştığı fakat alamadığı, almadan ülkenin teslim olacağını umduğu il.`, 2],
+		[`New York`, `İl`, `Amerika Birleşik Devletleri'nin en büyük ili.`, 1],
+		[`Tayvan`, `İl`, `Zamanında büyük bir ülke olan fakat şuanda bir adaya sıkışmış olan ülkenin bulunduğu adanın adı. Aynı zamanda bu adanın en büyük ili.`, 2],
+		[`Afrin`, `İl`, `Türkiye'nin Suriye iç savaşını bahene ederek topraklarına kattığı il.`, 1],
+		[`İstanbul`, `İl`, `Avrupa ile Asya'yı birbirine bağlayan il.`, 1],
+
+		// Şirketler
+		[`Coca Cola`, `Şirket`, `İsrail'in sahibi olduğu, ultra zeki türk halkının İsrail'i yok etmek için yere döktüğü ürünün sahibi olan şirket.`, 1],
+		[`Apple`, `Şirket`, `Dünyadaki en pahalı hisse değerine sahip şirket.`, 2],
+		[[`Microsoft`, `Microsoft Corporation`], `Şirket`, `En ünlü işletim sisteminin sahibi olan şirket`, 1],
+		[`Google`, `Şirket`, `Benim çöp olarak nitelendirdiğim, Android telefonlarda kullanılan, YouTube'u satın alan şirket.`, 1],
+		[`Samsung`, `Şirket`, `En değerli 2. telefon şirketi.`, 2],
+		[`Facebook`, `Şirket`, `Bir zamanlar herkese internet projesiyle ve bilgi hırsızlığı ile gündeme gelmiş şirket.`, 1],
+		[`Discord`, `Şirket`, `Skype ve Teamspeak3 devrini kapattığını iddia eden şirket.`, 1],
+
+		// Gruplar
+		[`Anonymous`, `Grup`, `Dünya'da adı en çok telaffuz edilen en güçlü hacker grubu.`, 1],
+		[[`TurkHackTeam`, `Türk Hack Team`, `TürkHackTeam`, `Turk Hack Team`], `Grup`, `Bana göre en çok icraatı olan Türk hacker grubu. Forumlarında siyah tema kullanırlar. Yaptıklarını genellikle kendi sitelerinde yayınlarlar sosyal medyada değil.`, 2],
+	
+		// Tarihi Olaylar
+		[`Haçlı Seferleri`, `Tarihi Olay`, `1096 yılında başlamış toplamda 8 tane bulunan olay.`, 4],
+		[`Fransız İhtilali`, `Tarihi Olay`, `Tüm dünyayı milliyetçiliğe yöneltmiş Osmanlı'yı yıkıma sürükleyen olay.`, 3],
+		[[`İkinci Dünya Savaşı`, `II. Dünya Savaşı`, `2. DÜnya Savaşı`], `Tarihi Olay`, `Bütün savaşları bitirecek yada yeni savaşları başlatacak bir olay.`, 3],
+		[`Kurtuluş Savaşı`, `Tarihi Olay`, `Bütün vasıflarından muhrum bırakılmış bir milletin tekrar yükselerek arşa eriştiğini kanıtlayan olay.`, 3],
+		[`Malazgirt Savaşı`, `Tarihi Olay`, `Türklere Anadolu'nun kapısını açan olay.`, 3],
+		[[`Kürşad İsyanı`, `Tarihi Olay`, `Kürşad Ayaklanması`, `Kürşat İsyanı`, `Kürşat Ayaklanması`], `Tarihi Olay`, `Çin baskısına maruz bırakılan türklerin tekrar ayaklanmasını sağlayan olay.`, 3],
+		[`Arap İsyanı`, `Tarihi Olay`, `1. Dünya Savaşı'nda Osmanlı'nın işini zorlaştıran Şerif Hüseyin'in yönettiği isyan.`, 2],
+		[[`1960 Darbesi`, `60 Darbesi`, `27 Mayıs Darbesi`], `Tarihi Olay`, `Amacı Demokrat Parti'yi devirmek olan olay.`, 2],
+		[[`Kıbrıs Harekatı`, `Kıbrıs Barış Harekatı`, `Kıbrıs İşgali`], `Tarihi Olay`, `Bir ada üzerinde var olan cumhuriyeti ikiye ayırmış olan ve 1960 civarlarında gerçekleşmiş olay.`, 2],
+		[`Kore Savaşı`, `Tarihi Olay`, `Soğuk savaşı sıcak savaşa dönüştüren olay.`, 2],
+
+		// Gezegenler
+		[`Mars`, `Gezegen`, `Gelecekte su bulunabilecek gezegen.`, 2],
+		[`Dünya`, `Gezegen`, `Üzerinde yaşam olan tek gezegen.`, 1],
+
+		// Kıtalar
+		[`Avrupa`, `Kıta`, `Lıhteştayn'ın bulunduğu kıta.`, 4],
+		[`Güney Amerika`, `Kıta`, `Kolombiya'nın bulunduğu kıta.`, 3],
+		[`Asya`, `Kıta`, `Hong Kong'un bulunduğu kıta.`, 4],
+		[`Okyanusya`, `Kıta`, `Yeni Zelenda'nın bulunduğu kıta.`, 3],
+		[`Afrika`, `Kıta`, `Gözümüzde trilyonlarca ülke bulunduran sadece denize kıyısı olan ülkelerin zengin olduğu kıta. İngilizler için bu kıtada önemli bir boğaz var.`, 2]
