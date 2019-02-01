@@ -72,7 +72,8 @@
 	// Gruplar
 	[`Anonymous`, `Grup`, `Dünya'da adı en çok telaffuz edilen en güçlü hacker grubu.`, 1],
 	[[`TurkHackTeam`, `Türk Hack Team`, `TürkHackTeam`, `Turk Hack Team`], `Grup`, `Bana göre en çok icraatı olan Türk hacker grubu. Forumlarında siyah tema kullanırlar. Yaptıklarını genellikle kendi sitelerinde yayınlarlar sosyal medyada değil.`, 2],
-
+        [`AyyıldızTeam`, `Türk Hack Grup`, `Türkiyenin Gururudur Kendileri.`
+	
 	// Tarihi Olaylar
 	[`Haçlı Seferleri`, `Tarihi Olay`, `1096 yılında başlamış toplamda 8 tane bulunan olay.`, 4],
 	[`Fransız İhtilali`, `Tarihi Olay`, `Tüm dünyayı milliyetçiliğe yöneltmiş Osmanlı'yı yıkıma sürükleyen olay.`, 3],
